@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPortfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Hello!!! This is Nafees Iqbal . I am BUET CSE student. Btach 15.This app is only for educational purpose</string>
+</resources>
